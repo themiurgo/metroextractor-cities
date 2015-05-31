@@ -1125,6 +1125,14 @@
                         "right": "4.927"
                     }
                 },
+                "bari_italy": {
+                    "bbox": {
+                        "top": "41.175",
+                        "left": "16.716",
+                        "bottom": "41.010",
+                        "right": "17.035"
+                    }
+                },
                 "basel_switzerland": {
                     "bbox": {
                         "top": "47.596",
